@@ -69,9 +69,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/websoftindonesia/websoftindonesia/output/snake.svg" alt="Snake animation" />
-
-###
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
