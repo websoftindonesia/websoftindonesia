@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hello Everyone! I'm Muhammad Fawwaz Rayyan Khalish 👋
 
+![Muhammad Fawwaz Rayyan Khalish](img/M.png)
 <!--
 **websoftindonesia/websoftindonesia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on [**@International Youth Goals**](https://www.instagram.com/iyouths.id/)
+- 😄 I’m currently learning [**React.js**](https://react.dev/) & [**Vue.js**](https://vuejs.org/)
