@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- 🔭 I’m currently working on [**@International Youth Goals**](https://www.instagram.com/iyouths.id/)
- 😄 I’m currently learning [**React.js**](https://react.dev/) & [**Vue.js**](https://vuejs.org/)
-💬 Ask me about Software Development & Graphic Design
+- 🔭 I’m currently working on [**@International Youth Goals**](https://www.instagram.com/iyouths.id/)
+ - 😄 I’m currently learning [**React.js**](https://react.dev/) & [**Vue.js**](https://vuejs.org/)
+- 💬 Ask me about Software Development & Graphic Design
